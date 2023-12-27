@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a0a6934-53f2-4a9b-85ba-c5afe026399a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L01/Q3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2WCkdlwKAitHq5AvtqdQfAClNdB" />
   <component name="ProjectViewState">
@@ -25,6 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Mahat_Summer_2020A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,7 +60,7 @@
       <updated>1696244041401</updated>
       <workItem from="1696244043371" duration="4000" />
       <workItem from="1696416281605" duration="33000" />
-      <workItem from="1703661823678" duration="4244000" />
+      <workItem from="1703661823678" duration="8162000" />
     </task>
     <servers />
   </component>
