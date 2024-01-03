@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a0a6934-53f2-4a9b-85ba-c5afe026399a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/L01/Q3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" afterDir="false" />
     </list>
@@ -60,7 +59,8 @@
       <updated>1696244041401</updated>
       <workItem from="1696244043371" duration="4000" />
       <workItem from="1696416281605" duration="33000" />
-      <workItem from="1703661823678" duration="8162000" />
+      <workItem from="1703661823678" duration="8723000" />
+      <workItem from="1703841739354" duration="25000" />
     </task>
     <servers />
   </component>
@@ -77,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
