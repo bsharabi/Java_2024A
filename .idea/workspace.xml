@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a0a6934-53f2-4a9b-85ba-c5afe026399a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L01/Mahat_Summer_2020A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="L02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mahat_Summer_2020B">
     <configuration name="Mahat_Summer_2020A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L01.Mahat_Summer_2020A" />
       <module name="Java_2024A" />
@@ -43,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mahat_Summer_2020B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L02.Mahat_Summer_2020B" />
+      <module name="Java_2024A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mahat_Summer_2020B" />
         <item itemvalue="Application.Mahat_Summer_2020A" />
       </list>
     </recent_temporary>
@@ -61,6 +80,7 @@
       <workItem from="1696416281605" duration="33000" />
       <workItem from="1703661823678" duration="8723000" />
       <workItem from="1703841739354" duration="25000" />
+      <workItem from="1704265966220" duration="8551000" />
     </task>
     <servers />
   </component>
@@ -78,5 +98,24 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java</url>
+          <line>134</line>
+          <properties class="L02.Mahat_Summer_2020B" method="q1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/L02/Mahat_Summer_2020B.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
