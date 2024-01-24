@@ -112,19 +112,20 @@ public class Mahat_Summer_2023A {
     private static boolean q11(int[][] mat) {
 
         for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat.length; j++) {
-                if (i == j) {
-                    if(mat[i][j]%2==0)
-                        return false;
-                }
-                for (int k = 0; k < mat.length; k++) {
 
-                }
-                for (int k = 0; k < mat.length; k++) {
-                    
-                }
-            }
+            if (mat[i][i] % 2 == 0)
+                return false;
+
+            for (int k = 0; k < mat.length; k++)
+                if (mat[i][k] > mat[i][i])
+                    return false;
+
+            for (int k = 0; k < mat.length; k++)
+                if (mat[k][i] > mat[i][i])
+                    return false;
+
         }
+
         return true;
 
     }
